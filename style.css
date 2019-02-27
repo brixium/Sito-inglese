@@ -1,0 +1,20 @@
+#col_sx{
+	width: 95%;
+	height: 100%;
+    background-color: powderblue;
+	vertical-align: top;
+}
+#titolo{
+	font-family: verdana;
+	font-size: 32;
+	color: white;
+	text-align: center;
+}
+#corpo {
+	width: auto;
+	height: auto;
+	background-color: #ffcce6;
+}
+body{
+	background-image: url(bckgrnd.jpg);
+}
